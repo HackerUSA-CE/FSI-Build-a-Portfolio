@@ -1,4 +1,4 @@
-# lab-1.8.2-decorate-your-portfolio
+# Decorate Your Portfolio
 
 This is an activity for FSWD Lesson 1.8.1.
 
