@@ -1,3 +1,21 @@
 div {
-    background-color:goldenrod
+    background-color:goldenrod;
+    font-size: 21px;
+    color: black;
+    margin: 10px;
+}
+p1{
+    color: purple;
+    font-size: 20px;
+    text-align: left;
+}
+h1{
+    font-size: 23;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    image-orientation: center;
 }
