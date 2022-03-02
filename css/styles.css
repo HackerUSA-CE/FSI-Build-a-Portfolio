@@ -1,0 +1,11 @@
+
+body{
+    background-color: blueviolet;
+    color: yellow;
+   border-radius: 5px;
+   cursor: crosshair;
+}
+header{
+    text-align: center;
+    font-family: Arial;
+}
