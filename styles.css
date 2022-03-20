@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgba(12, 163, 250, 0.788);
+}
+    .heading{
+    width: 15em;
+    border: 4.5px solid rgb(145, 142, 144);
+    box-shadow: 8px 8px 5px rgb(214, 64, 64);
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, rgb(119, 57, 57), rgb(232, 231, 241) 40%, rgb(88, 88, 88));
+    font-family: "Lucida Handwriting";
+    color:rgba(245, 11, 11, 0.788);
+    font-size: x-small;
+}
+.MainPage{
+    font-family: "Lucida Handwriting";
+        color:rgb(247, 247, 247);
+    font-size: small;
+}
+div {
+    cursor:crosshair;
+}
