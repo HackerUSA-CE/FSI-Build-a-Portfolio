@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAME's Profile</title>
+</head>
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100vw; background-color: lightgrey;">
+    <div style="height: 40%; background-color: white; padding: 30px; border: 3px solid black; border-radius: 15px;">
+        <h2>FIRSTNAME LASTNAME</h2>
+        <p>SHORT DESCRIPTION</p>
+        <ul>
+            <li>HOBBY 1</li>
+            <li>HOBBY 2</li>
+            <li>HOBBY 3</li>
+        </ul>
+    </div>
+</body>
+</html>
