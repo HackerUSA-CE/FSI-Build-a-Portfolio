@@ -1,0 +1,30 @@
+body{
+    background-color: royalblue;
+}
+.Doomguy{
+    background-color: royalblue;
+    text-align: center;
+    border-radius: 15px;
+}
+.lorem{
+    color: mediumspringgreen;
+    border: inset firebrick;
+    text-align: center;
+    background-color:seashell;
+}
+h1{
+    color: tan;
+    border: groove;
+}
+h2{
+    color: snow;
+    border: ridge;
+    border-color: slateblue;
+}
+.Projecto{
+    text-align: center;
+    border:inset;
+    color: tomato;
+    border-color: black;
+    border-radius: 60px;
+}
