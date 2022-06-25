@@ -1,0 +1,28 @@
+body {
+    background-color: #7851a9;
+}
+H1 {
+    text-align: center;
+    color: indigo;
+    border: groove gold;
+}
+img {
+     height: 700px; 
+     width: 900px;
+}
+.Drake {
+    text-align: center;
+}
+.div1 {
+    text-align: center;
+    border: inset rgb(23, 10, 68);
+    border-radius: 13%;
+}
+.p1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.div2 {
+    background-color: black;
+    color: royalblue;
+    border: inset rgba(91, 56, 245, 0.76);
+}
