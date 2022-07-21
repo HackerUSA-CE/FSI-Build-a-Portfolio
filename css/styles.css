@@ -1,0 +1,78 @@
+
+div {
+    background-color:goldenrod;
+    font-size: 21px;
+    color: black;
+    margin: 10px;
+}
+p1{
+    color: purple;
+    font-size: 20px;
+    text-align: left;
+}
+h1{
+    font-size: 23;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.img-49ers {
+    width: 9300px;
+}
+/* Universal Selector */
+
+* {
+    background-color: goldenrod;
+    cursor: url(../images/cursor.png), pointer;
+}
+
+
+/* Attribute Selector */
+
+[src] {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+
+/* Element Selector */
+
+h1,
+h2 {
+    text-align: center;
+}
+
+ul li {
+    font-size: 24px;
+    color: rgb(139, 108, 113);
+    list-style: upper-roman inside;
+    text-align: center;
+}
+
+
+/* Class Selector */
+
+.section-font {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.about-me {
+    font-family: cursive;
+}
+
+
+/* ID Selector */
+
+#myfav {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    border-color: rgb(104, 27, 40);
+    border-style: solid;
+    border-width: 5px;
+}
