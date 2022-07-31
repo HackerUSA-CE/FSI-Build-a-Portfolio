@@ -2,6 +2,10 @@ h1{
     color:red;
     background-color: yellow;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
 body {
@@ -9,18 +13,29 @@ body {
     color: blue;
     background-color: beige;
     font-family: cursive;
+    font-size: x-large;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h2{
     color:red;
     background-color: yellow;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h3{
     color:red;
     background-color: yellow;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #showcase {
