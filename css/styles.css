@@ -1,0 +1,38 @@
+.first-div{
+  font-family: arial;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(48,40,45);
+  border-radius: 15px;
+}
+.second-div{
+  border-color:rgb(48,40,45) ;
+  border-style: double;
+  border-width: 15px;
+}
+.list-div{
+  background-color:rgb(48,40,45) ;
+  color:rgb(255, 255, 255) ;
+  border-radius: 15px;
+}
+.softwareTitle{
+  font-family: arial;
+}
+
+.phone{
+  font-weight: bolder;
+  cursor: pointer;
+}
+.phone:hover {
+  text-decoration: underline;
+  
+}
+.email{
+  font-weight: bolder;
+  cursor: pointer;
+}
+.email:hover{
+  cursor: pointer;
+  text-decoration: underline;
+
+}
