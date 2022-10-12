@@ -1,0 +1,25 @@
+ .siff {
+width:800px;
+height:400px;
+border-color: grey;
+border-width: ;
+border-style:groove;
+
+}
+
+.about-me {
+    background-color: white;
+
+   
+}
+
+.contact-me {
+    background-color:whitesmoke;
+    border-style:inset;
+    border-width: 5px;
+}
+
+.page-background {
+    background-color: black;
+    color:aliceblue;
+}
