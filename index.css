@@ -1,3 +1,12 @@
+body,html{
+    margin:0;
+    width:100%;
+  }
+  html{
+      background-color: rgb(161, 230, 237);
+  }
+  
+
 #name{
     background-color: rgb(143, 11, 11);
     backface-visibility: inherit;
