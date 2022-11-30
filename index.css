@@ -1,0 +1,122 @@
+body,html{
+    margin:0;
+    width:100%;
+  }
+  html{
+      background-color: rgb(161, 230, 236);
+  }
+  
+
+#name{
+    background-color: rgb(143, 11, 11);
+    backface-visibility: inherit;
+    margin-right: 50%;
+    display: inline;
+}
+
+.images{
+    height: 300px;
+    width: 300px;
+    backdrop-filter: saturate(80%);
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 23%;
+    align-items: center;
+}
+
+#intro-title{
+    background-color: rgb(2, 143, 230);
+    backface-visibility: inherit;
+    margin-right: 60%;
+}
+
+.dotted-font{
+    border-color: rgba(27, 27, 194, 0.648);
+    border-width: 30px;
+    border-right: 35px;
+    border-left: 35px;
+    border-style: dotted;
+    display: inline-block;
+
+}
+
+#name2{
+    background-color: rgb(143, 11, 11);
+    backface-visibility: inherit;
+    margin-right: 20%;
+}
+
+#intro-title2{
+    background-color: rgb(2, 143, 230);
+    backface-visibility: inherit;
+    margin-right: 65%;
+}
+
+div{
+    text-align: justify;
+}
+
+#list2{
+   text-decoration:underline;
+    list-style-type: disc;
+    text-align: left;
+    scroll-margin: inherit;
+    background-color: coral;
+    background-size: contain;
+    margin-right: 75%;
+    border-style: dashed;
+    border-color: crimson;
+
+}
+
+h3{
+    text-align: left;
+    background-color:darkorange;
+    margin-right: 80%;
+}
+
+.list1{
+    text-decoration:underline;
+    list-style-type: disc;
+    text-align: left;
+    scroll-margin: inherit;
+    margin-right: 80%;
+    background-color: coral;
+    background-size: contain;
+    list-style-type: square;
+    border-style: dashed;
+    border-color: crimson;
+}
+
+li{
+    text-decoration:underline;
+    list-style-type: disc;
+    text-align: left;
+    scroll-margin: inherit;
+    margin-right: auto;
+    background-color: coral;
+    background-size: contain;
+    list-style-type: square;
+    border-style: dotted;
+    border-color: rgb(92, 247, 14);
+    border-collapse: separate;
+}
+
+h2{
+    border: 15pt;
+    border-color: darkmagenta;
+    border-style: inset;
+    background-color: cornflowerblue;
+    display: inline-flex;
+}
+
+#link-1{
+    font-style: oblique;
+    text-decoration: underline;
+    display: inline-block;
+    border-style: double;
+    text-shadow: darkkhaki;
+    background-color: rgb(241, 240, 230);
+    text-decoration-color: black;
+}
+

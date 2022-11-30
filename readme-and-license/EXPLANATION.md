@@ -1,0 +1,1 @@
+I made two html files, one for my portfolio and one for my "hobbies and things I like in general," and linked them up together. I played with the styles inside the styles.css file. I learned how to resize images from CSS, change background colors, margins, and the way they are displayed on the website. I hope you find it alright. : )
