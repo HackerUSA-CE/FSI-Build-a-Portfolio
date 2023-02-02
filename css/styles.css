@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://images.pexels.com/photos/10845119/pexels-photo-10845119.jpeg?cs=srgb&dl=pexels-abdul-kayum-10845119.jpg&fm=jpg&_gl=1*onwri8*_ga*MTQyMTA2MzEzMS4xNjc0Nzk4Mjk4*_ga_8JE65Q40S6*MTY3NTMyMjA4Ny4zLjEuMTY3NTMyMjA5Ny4wLjAuMA..);
+
+}
+
+h1 {
+    color: teal;
+    text-align: center;
+    font-size: 65px;
+    
+}
+
+h2 {
+    color: peachpuff;
+
+}
+
+p {
+    color: aqua;
+
+
+}
