@@ -1,0 +1,20 @@
+h1 {
+  
+  color:fuchsia;
+  background-color: black;
+  border-radius: 5px;
+  border: 4mm ridge rgba(203, 211, 54, 0.6);
+  
+  
+
+  
+  
+}
+body{
+  background-color:rgb(114,137,218);
+  color: aliceblue;
+  
+}
+h2 {
+  color: black;
+}
